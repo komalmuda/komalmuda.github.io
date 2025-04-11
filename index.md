@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Analysing Human Resource Data Using Tableau](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+The data included various employee attributes, which made it suitable for analyzing turnover trends. 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
