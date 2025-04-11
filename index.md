@@ -21,7 +21,8 @@ I was motivated to analyze the data surrounding Metro Bikeshare in Los Angeles. 
 ---
 #### [Lined Project on Data Analysis Using Excel](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-n this article, you'll learn about the surprising findings from my analysis of DoorDash's customer spending behaviors. I’ll share insights into the relationship between income and spending, and how age influences customer engagement.
+In this article, you'll learn about the surprising findings from my analysis of DoorDash's customer spending behaviors. I’ll share insights into the relationship between income and spending, and how age influences customer engagement.
+
 ---
 
 ### Category Name 2
