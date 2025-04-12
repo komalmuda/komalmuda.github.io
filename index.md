@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Project on Data Analysis Using Tableau([https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D])
-<img src="images/humanresource_image.png?raw=true"/>(https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+#### [Project on Data Analysis Using Tableau](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+[<img src="images/humanresource_image.png?raw=true"/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 The data included various employee attributes, which made it suitable for analyzing turnover trends. 
 
 ---
