@@ -3,7 +3,7 @@
 ---
 
 #### [Project on Data Analysis Using Tableau](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
-[<"img src="images/humanresource_image.png" width="200" height="400/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+[<img src="images/humanresource_image.png" width="50" height="100/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 The data included in this project are various employee attributes, which made it suitable for analyzing turnover trends. 
 
 ---
