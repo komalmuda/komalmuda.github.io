@@ -1,9 +1,9 @@
-title: Komal Mudaliar # your name (or website title) here
+etitle: Komal Mudaliar # your name (or website title) here
 logo: "/images/PhotoFunia-1734239994.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A seasoned Data Analyst with 7 years of  
-  Industry Experience and a Master's in Computer Science. If you or someone you know is looking to hire a data analyst, let’s talk!
-  I’m excited to connect and share insights about making data-driven decisions that can impact the workplace positively.<br><br>
+  Industry Experience and a Master's degree in Computer Science. If you or someone you know is looking to hire a data analyst, let’s talk!
+  <br><br>
   <a href="https://www.linkedin.com/in/komal-m/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
