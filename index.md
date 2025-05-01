@@ -8,7 +8,7 @@ The data included in this project are various employee attributes, which made it
 
 ---
 #### [Project on Data Analysis using SQL](https://www.linkedin.com/pulse/healthcare-insights-journey-through-data-analysis-komal-m-corzc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
-[<img src="images/healthcare_image.png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-insights-journey-through-data-analysis-komal-m-corzc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+[<img src="images/Red White Modern World Heart Day Facebook Post.gif?raw=true"/>](https://www.linkedin.com/pulse/healthcare-insights-journey-through-data-analysis-komal-m-corzc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 The motivation behind this project stemmed from my passion for healthcare and the power of data. Hospitals are complex organizations, and understanding their operations can lead to better patient outcomes and financial success. I wanted to leverage SQL to analyze key performance indicators (KPIs). 
 
 ---
