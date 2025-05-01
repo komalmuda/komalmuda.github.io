@@ -3,7 +3,7 @@
 ---
 
 #### [Project on Data Analysis Using Tableau](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
-[<img src="images/Colourful Simple Bold Lined Stickers Employee Onboarding Business Presentation.gif?raw=true"/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+[<img src="images/Red Yellow and White Illustrative HR Management Development Program Presentation (3).gif?raw=true"/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 The data included in this project are various employee attributes, which made it suitable for analyzing turnover trends. 
 
 ---
