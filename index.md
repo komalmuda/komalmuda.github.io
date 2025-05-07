@@ -12,7 +12,7 @@ The data included in this project are various employee attributes, which made it
 
 ---
 #### [Project on Data Analysis Using Excel](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
-[<img src="images/Red Simple 3D Food Delivery Order Instagram Post.gif?raw=true"/>](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+[<img src="images/RedSimple3DFoodDeliveryOrderInstagramPost-ezgif.com-crop.gif?raw=true"/>](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 In this Project, you'll learn about the surprising findings from my analysis of DoorDash's customer spending behaviors. I’ll share insights into the relationship between income and spending, and how age influences customer engagement.
 
 ---
