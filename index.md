@@ -18,6 +18,7 @@ In this Project, you'll learn about the surprising findings from my analysis of 
 ---
 #### [Project on Data Analysis Using Tableau](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
 [<img src="images/GreenSimpleCompanyNegativeSpaceBycicleLogo11-ezgif.com-crop.gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
+
 I was motivated to analyze the data surrounding Metro Bikeshare in Los Angeles. Understanding demand patterns could help city planners and service providers make informed decisions about where to place more bikes and how to adjust their offerings. 
 
 ---
