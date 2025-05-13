@@ -17,7 +17,7 @@ In this Project, you'll learn about the surprising findings from my customer spe
 
 ---
 #### [Project on Data Analysis Using Python](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
-[<img src="images/Orange Black and  World Coal Miner Day Instagram Post.gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
+[<img src="images/Orange Black and  World Coal Miner Day Instagram Post (1).gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
 
 ---
 #### [Project on Data Analysis Using Tableau](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
