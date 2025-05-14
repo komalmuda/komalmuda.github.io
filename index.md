@@ -11,7 +11,7 @@ The motivation behind this project stemmed from my passion for healthcare and th
 The data included in this project are various employee attributes, which made it suitable for analyzing turnover trends. 
 ---
 #### [Project on Data Analysis Using Python](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
-[<img src="images/Orange Black and  World Coal Miner Day Instagram Post (3).gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
+[<img src="images/OrangeBlackandWorldCoalMinerDayInstagramPost3-ezgif.com-resize.gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
 
 ---
 #### [Project on Data Analysis Using Excel](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
