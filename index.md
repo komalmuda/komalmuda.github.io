@@ -10,8 +10,8 @@ The motivation behind this project stemmed from my passion for healthcare and th
 [<img src="images/RedYellowandWhiteIllustrativeHRManagementDevelopmentProgramPresentation31-ezgif.com-resize.gif?raw=true"/>](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 The data included in this project are various employee attributes, which made it suitable for analyzing turnover trends. 
 ---
-#### [Project on Data Analysis Using Python](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
-[<img src="images/Untitled design.gif"/>](https://www.linkedin.com/pulse/exploring-pulse-los-angeles-insights-from-metro-bikeshare-komal-m-9olvc/?trackingId=LTqdjAIZT32JKFFCn%2F2wsQ%3D%3D)
+#### [Project on Data Analysis Using Python]([https://www.linkedin.com/pulse/ironing-out-details-journey-through-data-analysis-mining-komal-m-dyiwc/])
+[<img src="images/Untitled design.gif"/>](https://www.linkedin.com/pulse/ironing-out-details-journey-through-data-analysis-mining-komal-m-dyiwc/)
 
 ---
 #### [Project on Data Analysis Using Excel](https://www.linkedin.com/pulse/unpacking-spending-habits-what-doordash-taught-me-consumer-komal-m-bpvlc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
